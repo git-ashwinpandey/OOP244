@@ -1,9 +1,3 @@
-/*
-Full Name  : Ashwin Pandey
-Student ID#: 156027211
-Email      : apandey21@myseneca.ca
-*/
-
 #include <string.h>
 #include <cstring>
 #include "LblShape.h"
