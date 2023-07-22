@@ -1,0 +1,3 @@
+- allocate and deallocate dynamic memory for an array;
+- overload functions;
+- create and use references;
