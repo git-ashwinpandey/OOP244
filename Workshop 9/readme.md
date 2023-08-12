@@ -58,15 +58,4 @@ The upgraded definition of our Student class contains a resource instance pointe
 ==================================================
 
 ```
-## PART 1 Submission 
 
-### Files needed for submission
-```Text
-   cstring.h
-   cstring.cpp
-   Text.h
-   Text.cpp
-   HtmlText.h
-   HtmlText.cpp
-   w9Tester.cpp
-```
